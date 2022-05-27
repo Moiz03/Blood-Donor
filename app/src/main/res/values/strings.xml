@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    <string-array name="ar_city">
+        <item>Lahore</item>
+        <item>Faisalabad</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Okara</item>
+    </string-array>
+    
+    <string-array name="ar_blood">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="ar_status">
+        <item>Ready to Donate</item>
+        <item>Cannot Donate</item>
+    </string-array>
+
+</resources>
